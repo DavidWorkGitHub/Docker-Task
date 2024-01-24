@@ -9,7 +9,7 @@ Use the cd command to navigate to the directory where your docker-compose.yml fi
 
 Run Docker Compose:
 Run the following command to start the services defined in your Docker Compose file
+![Step one](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/16e37ef6-b402-4de5-913c-aac98796451b)
 
-![Step one](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/2a267505-fb84-4b7a-bed4-4747cc9438f0)
 
 
