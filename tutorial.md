@@ -1,4 +1,4 @@
-It seems there might be a bit of confusion in your question. Docker containers are instances of Docker images. In your provided Docker Compose file, you have specified services (nginx, wp, and db), and each service is associated with a Docker image. When you run the Docker Compose file, Docker will pull the specified images from Docker Hub (or another registry) and create containers based on those images.
+Docker containers are instances of Docker images. In your provided Docker Compose file, I have specified services (nginx, wp, and db), and each service is associated with a Docker image. When you run the Docker Compose file, Docker will pull the specified images from Docker Hub (or another registry) and create containers based on those images.
 
 To put these images into containers, you need to follow these steps:
 
