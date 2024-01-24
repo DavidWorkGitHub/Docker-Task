@@ -8,7 +8,7 @@ Navigate to the directory containing your Docker Compose file in the terminal:
 Use the cd command to navigate to the directory where your docker-compose.yml file is located.
 
 Run Docker Compose:
-Run the following command to start the services defined in your Docker Compose file:
+Run the following command to start the services defined in your Docker Compose file
 
 ![Step one](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/2a267505-fb84-4b7a-bed4-4747cc9438f0)
 
