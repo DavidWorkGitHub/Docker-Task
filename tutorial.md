@@ -13,5 +13,25 @@ Use the cd command to navigate to the directory where your docker-compose.yml fi
 
 Run Docker Compose:
 Run the following command to start the services defined in your Docker Compose file:
+
 ![Step one](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/18d439a4-d727-4af9-bbaf-3c2bb4d6fb2d)
 
+The -d flag runs the containers in the background.
+
+View Running Containers:
+You can check the status of your running containers using:
+
+![tutorial 2](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/dc1fbd61-eb4c-4a82-b222-aeb02ba50668)
+
+This command will show you a list of running containers along with their IDs, names, and other information.
+
+Now, your Nginx, WordPress, and MySQL containers should be up and running. You can access your WordPress site by navigating to http://localhost in your web browser.
+
+To stop and remove the containers, you can use the following command:
+
+![tutorial 3](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/a4ba8010-5218-4d9f-8f00-a04d2bada3bd)
+
+
+This command will stop and remove the containers defined in your Docker Compose file.
+
+Make sure to customize the configuration according to your requirements before running it in a production environment.
