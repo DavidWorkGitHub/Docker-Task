@@ -1,0 +1,13 @@
+Ensure Docker and Docker Compose are installed:
+Make sure you have Docker and Docker Compose installed on your system. You can download them from the official Docker website: https://docs.docker.com/get-docker/
+
+Save your Docker Compose file:
+Save your Docker Compose file with a .yml extension, for example, docker-compose.yml.
+
+Navigate to the directory containing your Docker Compose file in the terminal:
+Use the cd command to navigate to the directory where your docker-compose.yml file is located.
+
+Run Docker Compose:
+Run the following command to start the services defined in your Docker Compose file:
+
+![Step 1](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/c22419e2-011f-4946-a54e-dd4bd888494b)
