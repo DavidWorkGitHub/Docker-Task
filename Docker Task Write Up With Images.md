@@ -19,3 +19,12 @@ The implementation of the Dockerized WordPress environment proved to be a succes
 
 
 ![Docker 1](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/4104ea06-037f-40d4-a550-4c932f5465f6)
+
+
+![Docker 2](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/3f60198d-8ae9-472a-ae36-0b92ea9fdd36)
+
+
+![Docker 3](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/53f01f3d-2be2-4a80-bddb-af7d9eec3e3c)
+
+
+![docker port](https://github.com/DavidWorkGitHub/Docker-Task/assets/65865159/b119666f-ee98-4889-bd72-ae29338d7f1a)
